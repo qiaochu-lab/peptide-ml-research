@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.pkl
+*.npy
+.env
+.DS_Store
+esm_embeddings.npy
+phys_features.npy
+rf_model.pkl
+transformer_fusion.pt
